@@ -11,19 +11,19 @@ For this project, I analyzed whether help sessions in COMP110 should be made man
 
 ## Visualization 1: Understanding by Office Hour Visits
 
-<img src="/static/imgs/understanding_by_oh_visits.png" alt="Boxplot of understanding by number of office hour visits" width="500"/>
+<img src="{{ '/static/imgs/understanding_by_oh_visits.png' | relative_url }}" alt="Boxplot of understanding by number of office hour visits" width="500">
 
 This chart shows how students’ self-reported understanding changes across different numbers of office hour visits.
 
 ## Visualization 2: Understanding vs. Perceived Office Hour Effectiveness
 
-<img src="/static/imgs/oh_effectiveness_vs_understanding.png" alt="Scatterplot of understanding versus perceived office hour effectiveness" width="500"/>
+<img src="{{ '/static/imgs/oh_effectiveness_vs_understanding.png' | relative_url }}" alt="Scatterplot of understanding versus perceived office hour effectiveness" width="500">
 
 This chart shows the relationship between how effective students think office hours are and how well they feel they understand the course material.
 
 ## Visualization 3: Difficulty by Office Hour Visits
 
-<img src="/static/imgs/difficulty_by_oh_visits.png" alt="Bar chart of average difficulty by number of office hour visits" width="500"/>
+<img src="{{ '/static/imgs/difficulty_by_oh_visits.png' | relative_url }}" alt="Bar chart of difficulty by office hour visits" width="500">
 
 This chart shows that students who attend office hours more often also tend to report higher difficulty in the course.
 
